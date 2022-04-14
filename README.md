@@ -1,10 +1,6 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/fremen1990">
-        <img alt="HackerRank Logo | Tomasz Stanisz Profile" src="https://hrcdn.
-net/fcore/assets/brand/typemark_60x200-7435b42d20.svg"/> >
-
-
 <img src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg"  alt="haker-rank-logo">
     </a>
 </p>
@@ -77,10 +73,10 @@ problems with **JavaScript** and **mySQL**
 
 ### 10 Days of JavaScript
 
-|  Day  |            Challenge             |                                       Problem                                       | Difficulty | Score |                                                     Solution                                                      |
-| :---: | :------------------------------: | :---------------------------------------------------------------------------------: | :--------: | :---: | :---------------------------------------------------------------------------------------------------------------: |
-|   0   |          Hello, World!           |      [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem)      |    Easy    |  10   |             [Solution](/10%20Days%20of%20JavaScript/Day%200/01%20-%20Day%200%20-%20Hello,%20World.js)             |
-|   0   |            Data Types            |      [Problem](https://www.hackerrank.com/challenges/js10-data-types/problem)       |    Easy    |  10   |              [Solution](/10%20Days%20of%20JavaScript/Day%200/02%20-%20Day%200%20-%20Data%20Types.js)              |
+|  Day  |            Challenge             |                                       Problem                                       | Difficulty | Score |                                                                                               Solution                                                                                               |
+| :---: | :------------------------------: | :---------------------------------------------------------------------------------: | :--------: | :---: |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   0   |          Hello, World!           |      [Problem](https://www.hackerrank.com/challenges/js10-hello-world/problem)      |    Easy    |  10   | [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](https://github.com/Fremen1990/HakerRank-practice/blob/main/10%20Days%20of%20JavaScript/Day%200/Day0-HelloWorld.js) |
+|   0   |            Data Types            |      [Problem](https://www.hackerrank.com/challenges/js10-data-types/problem)       |    Easy    |  10   |                                                       [<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](/10%20Days%20of%20JavaScript/Day%200/02%20-%20Day%200%20-%20Data%20Types.js)                                                        |
 
 
 
