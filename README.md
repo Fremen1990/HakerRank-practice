@@ -3,6 +3,9 @@
     <a href="https://www.hackerrank.com/fremen1990">
         <img alt="HackerRank Logo | Tomasz Stanisz Profile" src="https://hrcdn.
 net/fcore/assets/brand/typemark_60x200-7435b42d20.svg"/> >
+
+
+<img src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg"  alt="haker-rank-logo">
     </a>
 </p>
 
@@ -16,6 +19,10 @@ problems with **JavaScript** and **mySQL**
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/fremen1990/HakerRank-practice)](https://github.com/Fremen1990/HakerRank-practice/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/fremen1990/HakerRank-practice)](https://github.com/Fremen1990/HakerRank-practice/archive/main.zip)
+
+
+![JavaScript](https://img.shields.io/badge/-10%20Days%20of%20JavaScript-blue)
+![1/10](https://img.shields.io/badge/-1%2F10-brightgreen)
 
 
 
