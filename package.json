@@ -1,0 +1,49 @@
+{
+  "name": "haker-rank-practice",
+  "description": "HakerRank practice",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fremen1990/HakerRank-practice.git"
+  },
+  "author": "Fremen1990 / DevThomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fremen1990/HakerRank-practice/issues"
+  },
+  "homepage": "https://github.com/Fremen1990/HakerRank-practice#readme",
+
+  "scripts": {
+    "test": "node test"
+  },
+
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "jest": {
+    "moduleFileExtensions": ["js", "jsx"],
+    "moduleDirectories": ["node_modules", "bower_components", "src"],
+    "collectCoverageFrom": [
+      "<rootDir>/src/**/*.js",
+      "!<rootDir>/src/App.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 90,
+        "functions": 90,
+        "lines":90,
+        "statements":90
+
+      }
+    },
+    "coverageReporters": [
+      "html",
+      "text"
+    ]
+
+  }
+
+}
