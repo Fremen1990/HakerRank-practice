@@ -32,6 +32,8 @@ export function performOperation(secondInteger, secondDecimal, secondString) {
 
 	console.log(decimalResult)
 
+
+
 	// Write code that uses console.log to print the sum of 'firstDecimal' and 'secondDecimal' (converted to a Number            type) on a new line.
 
 	const stringResult = firstString.concat(secondString)
