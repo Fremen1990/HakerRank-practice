@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="https://www.hackerrank.com/fremen1990">
-<img src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg"  alt="haker-rank-logo">
+<img src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg"  alt="haker-rank-logo"> + TypeScript
     </a>
 </p>
 
