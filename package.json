@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/Fremen1990/HakerRank-practice#readme",
   "scripts": {
+    "dev": "ts-node",
     "test:w": "jest --watch",
     "test": "jest"
   },
