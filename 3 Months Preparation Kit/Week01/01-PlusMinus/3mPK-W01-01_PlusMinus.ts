@@ -21,11 +21,11 @@ export const plusMinus = (arr: any): any => {
   const negativeRatio = (negative / arr.length).toFixed(6);
   const zeroRatio = (zero / arr.length).toFixed(6);
 
-  console.log(positiveRatio);
-  console.log(negativeRatio);
-  console.log(zeroRatio);
+  console.info(positiveRatio);
+  console.info(negativeRatio);
+  console.info(zeroRatio);
 
-  return [positiveRatio, negativeRatio, zeroRatio];
+  return "Dziala"
 };
-const arr = [-4, 3, -9, 0, 4, 1];
-plusMinus(arr);
+// const arr = [-4, 3, -9, 0, 4, 1];
+// plusMinus(arr);
