@@ -9,6 +9,7 @@ export const performOperation = (secondInteger:number, secondDecimal:number, sec
 	const integerResult = firstInteger+Number(secondInteger)
 	const decimalResult = firstDecimal+Number(secondDecimal)
 	const stringResult = firstString.concat(secondString)
+	console.info({integerResult, decimalResult, stringResult})
 	return {integerResult, decimalResult, stringResult}
 }
 
